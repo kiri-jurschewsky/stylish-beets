@@ -47,3 +47,21 @@ footer {
 #days {
   font-weight: bold;
 }
+
+#info {
+  font-family: "PT Serif", sans-serif;
+}
+
+#fact {
+  font-family: "PT Serif", sans-serif;
+}
+
+#quote {
+  font-size: 2rem;
+  font-style: italic;
+  font-weight: normal;
+}
+
+#web {
+  color: #ff6347;
+}
