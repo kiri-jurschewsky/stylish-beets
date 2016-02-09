@@ -51,6 +51,7 @@ footer {
 
 #info {
   font-family: "PT Serif", sans-serif;
+  font-weight: normal;
 }
 
 #fact {
@@ -60,9 +61,21 @@ footer {
 #quote {
   font-size: 2rem;
   font-style: italic;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 #web {
   color: #ff6347;
+}
+
+.common {
+  list-style-type: lower-greek;
+}
+
+.tags {
+  list-style-type: circle;
+}
+
+dl, dt {
+  font-weight: bold;
 }
