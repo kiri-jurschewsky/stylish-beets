@@ -1,10 +1,11 @@
 html {
-  background-color: #ffe4e1;
+  background-color: #c9b5ae;
+  line-height: normal;
 }
 
 h1 {
   font-family: "PT Sans", sans-serif;
-  color: #522029;
+  color: #3a1a29;
 }
 
 ol, nav {
@@ -15,19 +16,19 @@ ol, nav {
 
 a,
 a:link {
-  color: #932a5b;
+  color: #7b2f3c;
   font-weight: bold;
   text-decoration: none;
 }
 
 a:hover {
-  color: #5b364b;
+  color: #632731;
   font-weight: bold;
   text-decoration: underline;
 }
 
 h2 {
-  color: #522029;
+  color: #462435;
 }
 
 figcaption {
